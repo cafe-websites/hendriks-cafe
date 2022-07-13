@@ -1,0 +1,14 @@
+location:
+  address: 105/107 White St, Mordialloc VIC 3195
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50297.82629524158!2d145.01972103125!3d-38.009459699999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66d08513f3061%3A0x692397a7cc4fbb84!2sHendriks%20Cafe!5e0!3m2!1sen!2sau!4v1657696019977!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/thehendrikscafe/e
+  - platform: Instagram
+    link: https://www.instagram.com/hendrikscafe/
+  - platform: email
+    link: mailto:hello@hendrikscafe.com.au
+  - platform: phone
+    link: tel:0415482266

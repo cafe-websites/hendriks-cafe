@@ -1,0 +1,5 @@
+name: Hendriks Cafe
+description: Great food, good atmosphere and great service.
+color_profile: light  # options: light, dark, pink
+font_profile: futuristic  # options: futuristic, rustic, cursive, formal
+accent_color: "#b12b2b"
